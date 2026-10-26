@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -25,4 +27,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
