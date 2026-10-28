@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0877-stone-game) |
 ## Math
@@ -30,5 +31,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
