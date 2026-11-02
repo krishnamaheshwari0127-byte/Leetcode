@@ -16,6 +16,7 @@
 | [0202-happy-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
