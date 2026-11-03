@@ -17,6 +17,7 @@
 | [0877-stone-game](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
 |  |
 | ------- |
