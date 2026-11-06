@@ -14,6 +14,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2413-smallest-even-multiple) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
