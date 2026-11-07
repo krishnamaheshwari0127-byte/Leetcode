@@ -14,6 +14,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2235-add-two-integers) |
