@@ -9,6 +9,7 @@
 | [0189-rotate-array](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0263-ugly-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0202-happy-number) |
+| [1512-number-of-good-pairs](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -65,4 +68,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0412-fizz-buzz) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
