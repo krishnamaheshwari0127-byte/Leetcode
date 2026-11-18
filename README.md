@@ -17,6 +17,7 @@
 | [0202-happy-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/2235-add-two-integers) |
@@ -26,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -72,4 +74,12 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/1512-number-of-good-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
