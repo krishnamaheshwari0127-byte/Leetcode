@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/krishnamaheshwari0127-byte/Leetcode/tree/master/0709-to-lower-case) |
 ## Simulation
 |  |
 | ------- |
